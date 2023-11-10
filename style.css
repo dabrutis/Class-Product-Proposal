@@ -18,3 +18,7 @@ p {
     margin-right: 10%;
     font-size: large;
 }
+
+b {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
